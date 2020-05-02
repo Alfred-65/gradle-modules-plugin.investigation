@@ -132,7 +132,7 @@ Observations:
 ### project-zu6xy
 Properties
 
-- Gradle versions 6.0.1, 6.3
+- Gradle versions 6.0.1, 6.2.2, 6.3
 - modular project consumes libaries in main source-set
 - project uses JUnit 5 test engine only
 

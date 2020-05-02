@@ -48,5 +48,6 @@ buildAndPublish "project-tu531" && \
 buildAndPublish "project-tu564" && \
 buildAndPublish "project-tu630" && \
 buildAndPublish "project-zu601" && \
+buildAndPublish "project-zu622" && \
 buildAndPublish "project-zu630" && \
 echo afiDone
