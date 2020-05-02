@@ -1,0 +1,9 @@
+# Files created by Eclipse
+/project*/bin
+/project*/.classpath
+/project*/.project
+/project*/.settings
+
+# Files created by Gradle
+/project*/.gradle
+/project*/build
